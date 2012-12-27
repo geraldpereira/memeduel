@@ -1,0 +1,16 @@
+{
+	"memeTypes" :[
+		{"type":"MEME_MEDIUM", "image":"MEME_MEDIUM","strokeColor": "00000000", "strokeWidth":0.06,"shape" : "CIRCLE", "radius" : 0.4, "density" : 1.0,"friction" : 2.0,"restitution": 0.2,"bodyType":"DYNAMIC", "bullet":false,"selectable":false, "damageable": false},
+		{"type":"MEME_LARGE", "image":"MEME_LARGE","strokeColor": "00000000", "strokeWidth":0.06,"shape" : "CIRCLE", "radius" : 0.5, "density" : 1.0,"friction" : 2.0,"restitution": 0.2,"bodyType":"DYNAMIC", "bullet":false,"selectable":false, "damageable": false}
+	],
+	
+	"objectTypes" :[
+		{"type":"OBJECT_WOOD", "image":"WOOD", "strokeColor": "FF433121", "strokeWidth":0.06, "density" : 0.9,"friction" : 0.4,"restitution": 0.3,"bodyType":"DYNAMIC", "bullet":false,"selectable":false, "damageable": false},
+		{"type":"OBJECT_STONE", "image":"STONE", "strokeColor": "FF505050", "strokeWidth":0.06, "density" : 1.2,"friction" : 0.6,"restitution": 0.2,"bodyType":"DYNAMIC", "bullet":false,"selectable":false, "damageable": false},
+		{"type":"OBJECT_GLASS", "image":"GLASS", "strokeColor": "AA76C0FC", "strokeWidth":0.06, "density" : 0.9,"friction" : 1.6,"restitution": 0.1,"bodyType":"DYNAMIC", "bullet":false,"selectable":false, "damageable": false},
+		{"type":"OBJECT_MUD", "image":"MUD", "strokeColor": "FF2E1811", "strokeWidth":0.06, "density" : 0,"friction" : 0.6,"restitution": 0.1,"bodyType":"STATIC", "bullet":false,"selectable":false, "damageable": false}
+	],
+
+
+	"xOffset":0
+}
